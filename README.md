@@ -1,1 +1,1 @@
-# Vishal-Data
+Driver Drowsiness Detection System: Built a real-time driver drowsiness detection system using CNN and OpenCV that monitors eye state from a live camera feed and triggers alerts when signs of fatigue are detected, helping to reduce the risk of road accidents.
